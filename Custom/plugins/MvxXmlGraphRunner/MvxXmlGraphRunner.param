@@ -1,0 +1,8 @@
+[RenderExecutable]
+Type=multilinemultifilename
+Category=Render Executables
+CategoryOrder=0
+CategoryIndex=2
+Label=MvxXmlGraphRunner Render Executable
+Default=C:\gen\MVAgent\XmlGraphRunner.exe
+Description=The path to the MvxXmlGraphRunner executable file used for rendering. Enter alternative paths on separate lines.

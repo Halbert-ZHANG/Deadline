@@ -1,0 +1,8 @@
+[RenderExecutable]
+Type=multilinemultifilename
+Category=Render Executables
+CategoryOrder=0
+CategoryIndex=2
+Label=MvxSplitter Render Executable
+Default=C:\gen\MVAgent\Mvx2FileSplitter.exe
+Description=The path to the MvxSplitter executable file used for rendering. Enter alternative paths on separate lines.
